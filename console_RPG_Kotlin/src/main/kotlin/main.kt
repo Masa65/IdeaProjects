@@ -1,10 +1,14 @@
 //登場キャラクターを予めキャラクタクラスのインスタンスとして宣言しておく
 val king = Character("国王")
+val first = Map(1)
 
 fun main() {
     startingGame()
     val first = Map(1)
     first._mapStart()
+    for (i in 1..10) {
+        first.process()
+    }
 }
 
 fun startingGame() {
