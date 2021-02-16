@@ -3,6 +3,8 @@ val king = Character("国王")
 
 fun main() {
     startingGame()
+    val first = Map(1)
+    first._mapStart()
 }
 
 fun startingGame() {
