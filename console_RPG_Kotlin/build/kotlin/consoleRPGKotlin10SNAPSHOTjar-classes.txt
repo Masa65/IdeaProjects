@@ -1,1 +1,0 @@
-/Users/hk-p/IdeaProjects/console_RPG_Kotlin/build/classes/kotlin/main/Character.class:/Users/hk-p/IdeaProjects/console_RPG_Kotlin/build/classes/kotlin/main/MainKt.class:/Users/hk-p/IdeaProjects/console_RPG_Kotlin/build/classes/kotlin/main/Player.class
